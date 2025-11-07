@@ -1,0 +1,6 @@
+Flask
+gradio
+ibm_watsonx_ai
+email_validator
+numpy
+pandas
